@@ -1,2 +1,2 @@
-# dotfiles
-My configuration on Linux
+# My dotfiles of configuration on Linux
+coming soon
